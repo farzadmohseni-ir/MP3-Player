@@ -1,17 +1,13 @@
 # MP3-Player
-- MP3 Player or Music Player
-- Built with Python 3.8.3 & Tkinter
-- Install Python 3.8.3 : https://www.filepuma.com/download/python_64bit_3.8.3-25567/download/
-- pip install tk
-- pip install pyttk
-- pip install python-tk
-- pip install tkintertable
-- pip install ttkthemes
-- pip install mutagen
-- pip install os-win
-- pip install os-sys
-- pip install times
-- pip install python-time
-- pip install threaded
-- pip install multithreading
-- pip install Pillow
+
+MP3 Player or Music Player
+
+Built with Python 3.8.3 & Tkinter
+
+Install Python 3.8.3 : https://www.filepuma.com/download/python_64bit_3.8.3-25567/download/
+
+```python
+pip install -r requirements.txt
+```
+
+
